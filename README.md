@@ -1,3 +1,5 @@
 # Case-Study-in-Deep-Learning
-### CNN_idols image recognition
-- 如何建構深度學習模型分辨誰是屈中恆、宋少卿、鈕承澤 [reference](https://www.youtube.com/watch?v=B0d6PpjWQ-Q&t=39s)
+### Idol's face image recognition
+- Use CNN model to predict 3 idol's faces [reference](https://www.youtube.com/watch?v=B0d6PpjWQ-Q&t=39s)
+### Food images recognition
+- Use Transfer learning with ResNet-50 in Keras to build a food image classifier. 
